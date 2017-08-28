@@ -610,8 +610,8 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/fmt/fmt-tutorial-demux-2-10p.qza',
     '2017.8/tutorials/fmt/fmt-tutorial-demux-2-1p.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/fmt/fmt-tutorial-demux-2-1p.qza',
-    '2017.8/tutorials/gneiss/map.txt':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/gneiss/map.txt',
+    '2017.8/tutorials/gneiss/sample-metadata.tsv':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/gneiss/sample-metadata.tsv',
     '2017.8/tutorials/gneiss/table.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/gneiss/table.qza',
     '2017.8/tutorials/gneiss/taxa.qza':

@@ -1063,7 +1063,7 @@ MAP = {
     '2017.11/tutorials/atacama-soils/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/13jmPk_QByAFZV5TRKYERdgf3OwuFbv90tbLLoCJSdFg/export?gid=0&format=tsv',
     '2017.11/tutorials/atacama-soils/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/13jmPk_QByAFZV5TRKYERdgf3OwuFbv90tbLLoCJSdFg/edit?usp=sharing'
+        'https://docs.google.com/spreadsheets/d/13jmPk_QByAFZV5TRKYERdgf3OwuFbv90tbLLoCJSdFg/edit?usp=sharing',
     '2017.11/tutorials/moving-pictures/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/1jZHIR6rAy-FTh-xeWna73ft0IljwoO_EWX9kqWleHis/export?gid=0&format=tsv',
     '2017.11/tutorials/moving-pictures/sample_metadata':

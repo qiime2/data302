@@ -118,7 +118,7 @@ MAP = {
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.12/release/qiime2-2017.12-conda-linux-64.txt',
     'distro/core/2017.12':
         'https://google.com',
-    'distro/core/qiime201711-1512067591.zip':
+    'distro/core/qiime201712-BUILD.zip':
         'https://google.com',
 
     # Gallery

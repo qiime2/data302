@@ -186,7 +186,7 @@ MAP = {
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2019.1/release/qiime2-2019.1-py35-osx-conda.yml',
     'distro/core/qiime2-2019.1-py35-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2019.1/release/qiime2-2019.1-py35-linux-conda.yml',
-    'distro/core/2018.1':
+    'distro/core/2019.1':
         'https://google.com',
     'distro/core/qiime20191-BUILDID.zip':
         'https://google.com',

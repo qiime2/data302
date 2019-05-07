@@ -2478,7 +2478,7 @@ MAP = {
 
     ## Atacama
     '2019.7/tutorials/atacama-soils/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/1y3yM50tW_23H7fXeou9XwyM92VNd8dCtgk8ndHOMSMs/edit?usp=sharing'
+        'https://docs.google.com/spreadsheets/d/1y3yM50tW_23H7fXeou9XwyM92VNd8dCtgk8ndHOMSMs/edit?usp=sharing',
     '2019.7/tutorials/atacama-soils/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/1y3yM50tW_23H7fXeou9XwyM92VNd8dCtgk8ndHOMSMs/export?gid=0&format=tsv',
 

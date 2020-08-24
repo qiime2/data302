@@ -43,7 +43,7 @@ MAP_2020 = {
     'distro/core/qiime2-2020.11-py36-osx-conda.yml':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2020.11/release/qiime2-2020.11-py36-osx-conda.yml',
     'distro/core/qiime2-2020.11-py36-linux-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/environment-files/master//release/qiime2-2020.11-py36-linux-conda.yml',
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2020.11/release/qiime2-2020.11-py36-linux-conda.yml',
     'distro/core/':
         'https://google.com',
     'distro/core/qiime202011-BUILDID.zip':

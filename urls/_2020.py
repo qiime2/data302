@@ -624,4 +624,9 @@ MAP_2020 = {
         'https://docs.google.com/spreadsheets/d/1SDBD5gYFy2ck_vZXdj2oBix5XCtnWMPVbs0aaLcdccw/edit?usp=sharing',
     '2020.8/tutorials/pd-mice/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/e/2PACX-1vRe42IpLxZI1V5gtkuej2vuO31tyu0NCRbjECXx8SuQcarHhEqFFyluwmU72BesGWfEH-IX_tXGs8FX/pub?gid=1509704122&single=true&output=tsv',
+
+    # Link Shortening
+    'a_diversity_metrics':
+        'http://scikit-bio.org/docs/latest/generated/skbio.diversity.alpha',
+
 }

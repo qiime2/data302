@@ -394,31 +394,31 @@ MAP_2021 = {
         'https://docs.google.com/spreadsheets/d/15fWkBz5O2JH5wK5-fXLMJR2ZP4-rj8lMMTFzCaRVxuU/edit?usp=sharing',
     '2021.4/tutorials/fmt/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/15fWkBz5O2JH5wK5-fXLMJR2ZP4-rj8lMMTFzCaRVxuU/export?gid=0&format=tsv',
-    # TODO Fill in the rest of the links
 
     ## Moving Pictures
     '2021.4/tutorials/moving-pictures/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/1fAxItWc_JXVuXEhBiBNFMi3sLwjgiC9wUtIFn6q2W9g/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1e0mnmMtb1FUDJjrjh-sOIUohQkWGEDyGfuTST2-3pzo/edit?usp=sharing',
     '2021.4/tutorials/moving-pictures/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/1fAxItWc_JXVuXEhBiBNFMi3sLwjgiC9wUtIFn6q2W9g/export?gid=0&format=tsv',
-
+        'https://docs.google.com/spreadsheets/d/1e0mnmMtb1FUDJjrjh-sOIUohQkWGEDyGfuTST2-3pzo/export?gid=0&format=tsv',
     ## Atacama
     '2021.4/tutorials/atacama-soils/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/1r5nh74kOx7o3YqSjmP0GsWXifaHE-lrPgTFEM7aD87U/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1LY3_jcLu0NeA-4jiP-7iuQQ7NCa9blAZHMgck_hyOEk/edit?usp=sharing',
     '2021.4/tutorials/atacama-soils/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/1r5nh74kOx7o3YqSjmP0GsWXifaHE-lrPgTFEM7aD87U/export?gid=0&format=tsv',
+        'https://docs.google.com/spreadsheets/d/1LY3_jcLu0NeA-4jiP-7iuQQ7NCa9blAZHMgck_hyOEk/export?gid=0&format=tsv',
 
     ## The following tutorials are the "weird" ones, they use the *new* docs sharing menu, via "File -> Publish to the Web" dialog for TSV export.
 
+
     ## Longitudinal
     '2021.4/tutorials/longitudinal/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/1-HQ3DOxJ-wUNFLAxc6pTxB7WWi7EBM9wl-J583CC3mo/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1cSl30_A9pnfeumTQuvanEQKDHogsu5T4wCNr_zYG9CY/edit?usp=sharing',
     '2021.4/tutorials/longitudinal/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vTsMWj49ACOQRZ0dY0NoiotgWDjGYHJgiJl3Dhjr7XDGDkc0C8v2pU-odbj-No3n7lsGHASR7Dsjbn-/pub?gid=1303657428&single=true&output=tsv',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vQK_un92lY172qjuG9Ia5zHCzPMuSoxYAQUDYSefCgjnfjtx0Ro9hZJOSksVttk2aRYi2F0unvQik7B/pub?gid=1303657428&single=true&output=tsv',
+
 
     ## PD Mice
     '2021.4/tutorials/pd-mice/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/1xFjqJXw226IJTtQ_KIC-QAwwJBQeG-7oJxBAJvk5ZGo/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1Mi5yrCcd2nWO1cB-7S5gYnoCtnkeMXdCS7bkBl0pB5Y/edit?usp=sharing',
     '2021.4/tutorials/pd-mice/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vTM38ZnG-j3FzrhHEVOm0SM4CgWGvH6YBdAom_CeM4g-PXQScl1cMn0RhYtXWxsIdQQQMyTFvAQ7cMQ/pub?gid=1509704122&single=true&output=tsv',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vRt_5cnUjlKhnv5Gfuh8pgy0OwPHjlnnUuGS6ba9lwe_DaMi_SLgnfUOAAmm_tOH0Y0w35uR7Ff2uBM/pub?gid=1509704122&single=true&output=tsv',
 }

@@ -829,14 +829,20 @@ MAP_2021 = {
     ## FMT
     '2021.10/tutorials/fmt/sample_metadata':
         'https://docs.google.com/spreadsheets/d/1AVgfTi_qWoScvGM77Gx7tbKn996VQMnp0D9IA7I_HA4/edit?usp=sharing',
+    '2021.10/tutorials/fmt/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/1AVgfTi_qWoScvGM77Gx7tbKn996VQMnp0D9IA7I_HA4/export?gid=0&format=tsv',
 
     ## Moving Pictures
     '2021.10/tutorials/moving-pictures/sample_metadata':
         'https://docs.google.com/spreadsheets/d/1i-0SrMP5D3-nMgnoKeP8VVvpp_aGE15-l7n5W5tiqPY/edit?usp=sharing',
+    '2021.10/tutorials/moving-pictures/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/1i-0SrMP5D3-nMgnoKeP8VVvpp_aGE15-l7n5W5tiqPY/export?gid=0&format=tsv',
 
     ## Atacama
     '2021.10/tutorials/atacama-soils/sample_metadata':
         'https://docs.google.com/spreadsheets/d/1rwheIp9D69rxRjbPtrfP5jNL7_hAjMZFfRjC5L2xyp0/edit?usp=sharing',
+    '2021.10/tutorials/atacama-soils/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/1rwheIp9D69rxRjbPtrfP5jNL7_hAjMZFfRjC5L2xyp0/export?gid=0&format=tsv',
 
     ## The following tutorials are the "weird" ones, they use the *new* docs sharing menu, via "File -> Publish to the Web" dialog for TSV export.
 

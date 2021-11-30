@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------
-# Copyright (c) 2016-2022, QIIME 2 development team.
+# Copyright (c) 2016-2021, QIIME 2 development team.
 #
 # Distributed under the terms of the Modified BSD License.
 #
@@ -8,16 +8,16 @@
 
 # flake8: noqa
 
-MAP_2021 = {
+MAP_2022 = {
     # 2022.2 DISTRO
-    'distro/core/qiime2-2022.2-py36-osx-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/environment-files/master/2022.2/release/qiime2-2022.2-py36-osx-conda.yml',
-    'distro/core/qiime2-2022.2-py36-linux-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/environment-files/master/2022.2/release/qiime2-2022.2-py36-linux-conda.yml',
+    'distro/core/qiime2-2022.2-py38-osx-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2022.2/release/qiime2-2022.2-py38-osx-conda.yml',
+    'distro/core/qiime2-2022.2-py38-linux-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2022.2/release/qiime2-2022.2-py38-linux-conda.yml',
     'distro/core/2022.2':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/distro/core/qiime20212-1614815453.zip',
-    'distro/core/qiime20212-1614815453.zip':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/distro/core/qiime20212-1614815453.zip',
+        'https://google.com',
+    'distro/core/qiime20222-BUILD_ID.zip':
+        'https://google.com',
 
     # 2022.2
     '2022.2/common/gg-13-8-99-515-806-nb-classifier.qza':

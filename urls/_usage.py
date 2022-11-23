@@ -20,4 +20,10 @@ MAP_USAGE = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/rep-seqs-dada2.qza',
     'usage-examples/moving-pictures/rep-seqs-deblur.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/rep-seqs-deblur.qza',
+
+    # PD Mice
+    'usage-examples/pd-mice/core-metrics-results/faith_pd_vector.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/pd-mice/core-metrics-results/faith_pd_vector.qza',
+    'usage-examples/pd-mice/core-metrics-results/jaccard_distance_matrix.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/pd-mice/core-metrics-results/jaccard_distance_matrix.qza',
 }

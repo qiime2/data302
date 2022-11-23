@@ -10,6 +10,7 @@
 
 from ._old import MAP_OLD
 from ._permanent import MAP_PERMANENT
+from ._usage import MAP_USAGE
 from ._2019 import MAP_2019
 from ._2020 import MAP_2020
 from ._2021 import MAP_2021
@@ -20,6 +21,8 @@ MAP = {
     **MAP_OLD,
 
     **MAP_PERMANENT,
+
+    **MAP_USAGE,
 
     **MAP_2019,
 

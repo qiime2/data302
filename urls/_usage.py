@@ -18,10 +18,14 @@ MAP_USAGE = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/emp-single-end-sequences.qza',
     'usage-examples/moving-pictures/demux.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/demux.qza',
+    'usage-examples/moving-pictures/demux-filter-stats.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/demux-filter-stats.qza',
     'usage-examples/moving-pictures/rep-seqs-dada2.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/rep-seqs-dada2.qza',
     'usage-examples/moving-pictures/rep-seqs-deblur.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/rep-seqs-deblur.qza',
+    'usage-examples/moving-pictures/core-metrics-results/faith_pd_vector.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/core-metrics-results/faith_pd_vector.qza',
     'usage-examples/moving-pictures/core-metrics-results/jaccard_distance_matrix.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/core-metrics-results/jaccard_distance_matrix.qza',
 

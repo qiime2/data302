@@ -32,6 +32,10 @@ MAP_USAGE = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/core-metrics-results/bray_curtis_pcoa_results.qza',
     'usage-examples/moving-pictures/core-metrics-results/unweighted_unifrac_pcoa_results.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/core-metrics-results/unweighted_unifrac_pcoa_results.qza',
+    'usage-examples/moving-pictures/gut-table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/gut-table.qza',
+    'usage-examples/moving-pictures/taxonomy.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/taxonomy.qza',
 
     # PD Mice
     'usage-examples/pd-mice/core-metrics-results/faith_pd_vector.qza':

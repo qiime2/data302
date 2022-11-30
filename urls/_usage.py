@@ -40,4 +40,13 @@ MAP_USAGE = {
     # PD Mice
     'usage-examples/pd-mice/core-metrics-results/faith_pd_vector.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/pd-mice/core-metrics-results/faith_pd_vector.qza',
+    
+    
+    # Other
+    'usage-examples/other/single_multiplexed.qza':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/usage-examples/other/single_multiplexed.qza',
+    'usage-examples/other/barcodes':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/usage-examples/other/barcodes',
+    'usage-examples/other/paired_multiplexed.qza':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/usage-examples/other/paired_multiplexed.qza'
 }

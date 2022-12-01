@@ -48,7 +48,7 @@ MAP_USAGE = {
     'usage-examples/other/barcodes':
         'https://qiime2-data.s3.us-west-2.amazonaws.com/usage-examples/other/barcodes',
     'usage-examples/other/paired_multiplexed.qza':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/usage-examples/other/paired_multiplexed.qza'
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/usage-examples/other/paired_multiplexed.qza',
     'usage-examples/other/paired_metadata.tsv':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/usage-examples/other/paired_metadata.tsv'
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/usage-examples/other/paired_metadata.tsv',
 }

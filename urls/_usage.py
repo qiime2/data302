@@ -14,6 +14,8 @@ MAP_USAGE = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/atacama-soils/demux-full.qza',
 
     # Moving Pictures
+    'usage-examples/moving-pictures/sample-metadata.tsv':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/sample-metadata.tsv',
     'usage-examples/moving-pictures/emp-single-end-sequences.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/emp-single-end-sequences.qza',
     'usage-examples/moving-pictures/demux.qza':

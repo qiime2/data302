@@ -15,11 +15,11 @@ MAP_USAGE = {
 
     # Filtering
     'usage-examples/filtering/table.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/filtering/table.qza'
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/filtering/table.qza',
     
     # Metadata
     'usage-examples/metadata/rep-seqs.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/metadata/rep-seqs.qza'
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/metadata/rep-seqs.qza',
     
     # Moving Pictures
     'usage-examples/moving-pictures/sample-metadata.tsv':
@@ -57,7 +57,7 @@ MAP_USAGE = {
     
     # Phylogeny
     'usage-examples/phylogeny/rep-seqs.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/phylogeny/rep-seqs.qza'
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/phylogeny/rep-seqs.qza',
     
     # Other
     'usage-examples/other/single_multiplexed.qza':

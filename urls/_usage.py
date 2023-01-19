@@ -52,6 +52,8 @@ MAP_USAGE = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/moving-pictures/taxonomy.qza',
 
     # PD Mice
+    'usage-examples/pd-mice/sample-metadata.tsv':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/pd-mice/sample-metadata.tsv',
     'usage-examples/pd-mice/core-metrics-results/faith_pd_vector.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/usage-examples/pd-mice/core-metrics-results/faith_pd_vector.qza',
     

@@ -206,9 +206,9 @@ MAP_2023 = {
 
     ## FMT
     '2023.2/tutorials/fmt/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/1GGE277Ey9JFY7F57oUAOLVZ0agXzYMo9uZ0q0aw4D5Q/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/15dbbxb8T7cZ3iHBsS4511IVWVE4-vwC6yG-v0Cyn8js/edit?usp=sharing',
     '2023.2/tutorials/fmt/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vSr4tdp2zXLpQSwDXWSm4-5HsQ-XO6yWr2ulP5500Nh1cOupXPubRJZsf0EoBydATwEBHkMCkLSjAfN/pub?gid=0&single=true&output=tsv',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vSuwSudEIC-gUBR7pVakJSc7461a1fjRP543jitwNczNTEJoHALr-i25FyWb8aHu9lizRsbnBZlPMPN/pub?gid=0&single=true&output=tsv',
 
     ## Moving Pictures
     '2023.2/tutorials/moving-pictures/sample_metadata':

@@ -14,10 +14,6 @@ MAP_2023 = {
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2023.2/release/qiime2-2023.2-py38-osx-conda.yml',
     'distro/core/qiime2-2023.2-py38-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2023.2/release/qiime2-2023.2-py38-linux-conda.yml',
-    'distro/core/2023.2':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/core/qiime20232-{BUILDID}.zip',
-    'distro/core/qiime20232-{BUILDID}.zip':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/core/qiime20232-{BUILDID}.zip',
 
     # 2023.2
     '2023.2/common/gg-13-8-99-515-806-nb-classifier.qza':

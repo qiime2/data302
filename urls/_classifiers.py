@@ -19,5 +19,5 @@ MAP_CLASSIFIERS = {
     'classifiers/greengenes/gg_2022_10_backbone_full_length.nb.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/greengenes/gg_2022_10_backbone_full_length.nb.qza',
     'classifiers/greengenes/gg_2022_10_backbone.v4.nb.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/greengenes/gg_2022_10_backbone.v4.nb.qza',
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/greengenes/gg_2022_10_backbone.v4.nb.qza'
 }

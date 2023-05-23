@@ -8,6 +8,7 @@
 
 # flake8: noqa
 
+from ._classifiers import MAP_CLASSIFIERS
 from ._old import MAP_OLD
 from ._permanent import MAP_PERMANENT
 from ._usage import MAP_USAGE
@@ -19,6 +20,8 @@ from ._2023 import MAP_2023
 
 
 MAP = {
+    **MAP_CLASSIFIERS,
+
     **MAP_OLD,
 
     **MAP_PERMANENT,

@@ -681,14 +681,38 @@ MAP_2023 = {
         'https://docs.google.com/spreadsheets/d/e/2PACX-1vRRqmgYtuTwTpQXnca92KT0pTQmE3Wb1ra5RNl4kLM3vgcUxaegOg23j-Wic1u59RjDzKF_-Q6ZxQtc/pub?gid=1509704122&single=true&output=tsv',
 
 # 2023.9 DISTRO
-    'distro/core/qiime2-2023.9-py38-osx-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/environment-files/master/2023.9/release/qiime2-2023.9-py38-osx-conda.yml',
-    'distro/core/qiime2-2023.9-py38-linux-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/environment-files/master/2023.9/release/qiime2-2023.9-py38-linux-conda.yml',
-    'distro/core/2023.9':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/core/qiime20239-{BUILDID}.zip',
-    'distro/core/qiime20239-{BUILDID}.zip':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/core/qiime20239-{BUILDID}.zip',
+    # Amplicon
+    'distro/amplicon/qiime2-amplicon-2023.9-py38-osx-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/amplicon/released/qiime2-amplicon-macos-latest-conda.yml',
+    'distro/amplicon/qiime2-amplicon-2023.9-py38-linux-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/amplicon/released/qiime2-amplicon-ubuntu-latest-conda.yml',
+    # Shotgun
+    'distro/shotgun/qiime2-shotgun-2023.9-py38-osx-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/shotgun/released/qiime2-shotgun-macos-latest-conda.yml',
+    'distro/shotgun/qiime2-shotgun-2023.9-py38-osx-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/shotgun/released/qiime2-shotgun-ubuntu-latest-conda.yml',
+    # Tiny
+    'distro/tiny/qiime2-tiny-2023.9-py38-osx-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/tiny/released/qiime2-tiny-macos-latest-conda.yml',
+    'distro/tiny/qiime2-tiny-2023.9-py38-linux-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/tiny/released/qiime2-tiny-ubuntu-latest-conda.yml',
+
+    # VMs
+    # Amplicon
+    'distro/amplicon/2023.9':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/amplicon/qiime20239-{BUILDID}.zip',
+    'distro/amplicon/qiime20239-{BUILDID}.zip':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/amplicon/qiime20239-{BUILDID}.zip',
+    # Shotgun
+    'distro/shotgun/2023.9':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/shotgun/qiime20239-{BUILDID}.zip',
+    'distro/shotgun/qiime20239-{BUILDID}.zip':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/shotgun/qiime20239-{BUILDID}.zip',
+    # Tiny
+    'distro/tiny/2023.9':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/tiny/qiime20239-{BUILDID}.zip',
+    'distro/tiny/qiime20239-{BUILDID}.zip':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/tiny/qiime20239-{BUILDID}.zip',
 
     # 2023.9
     '2023.9/common/gg-13-8-99-515-806-nb-classifier.qza':

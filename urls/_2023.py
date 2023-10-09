@@ -697,22 +697,6 @@ MAP_2023 = {
     'distro/tiny/qiime2-tiny-2023.9-py38-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/tiny/released/qiime2-tiny-ubuntu-latest-conda.yml',
 
-    # VMs
-    # Amplicon
-    'distro/amplicon/2023.9':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/amplicon/qiime20239-{BUILDID}.zip',
-    'distro/amplicon/qiime20239-{BUILDID}.zip':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/amplicon/qiime20239-{BUILDID}.zip',
-    # Shotgun
-    'distro/shotgun/2023.9':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/shotgun/qiime20239-{BUILDID}.zip',
-    'distro/shotgun/qiime20239-{BUILDID}.zip':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/shotgun/qiime20239-{BUILDID}.zip',
-    # Tiny
-    'distro/tiny/2023.9':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/tiny/qiime20239-{BUILDID}.zip',
-    'distro/tiny/qiime20239-{BUILDID}.zip':
-        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/tiny/qiime20239-{BUILDID}.zip',
 
     # 2023.9
     '2023.9/common/gg-13-8-99-515-806-nb-classifier.qza':

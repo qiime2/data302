@@ -689,7 +689,7 @@ MAP_2023 = {
     # Shotgun
     'distro/shotgun/qiime2-shotgun-2023.9-py38-osx-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/shotgun/released/qiime2-shotgun-macos-latest-conda.yml',
-    'distro/shotgun/qiime2-shotgun-2023.9-py38-osx-conda.yml':
+    'distro/shotgun/qiime2-shotgun-2023.9-py38-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/shotgun/released/qiime2-shotgun-ubuntu-latest-conda.yml',
     # Tiny
     'distro/tiny/qiime2-tiny-2023.9-py38-osx-conda.yml':

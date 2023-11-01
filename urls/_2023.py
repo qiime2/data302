@@ -696,7 +696,11 @@ MAP_2023 = {
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/tiny/released/qiime2-tiny-macos-latest-conda.yml',
     'distro/tiny/qiime2-tiny-2023.9-py38-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/tiny/released/qiime2-tiny-ubuntu-latest-conda.yml',
-
+    # FMT
+    'distro/fmt/qiime2-fmt-2023.9-py38-osx-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/fmt/released/qiime2-fmt-macos-latest-conda.yml',
+    'distro/fmt/qiime2-fmt-2023.9-py38-linux-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.9/fmt/released/qiime2-fmt-ubuntu-latest-conda.yml',
 
     # 2023.9
     '2023.9/common/gg-13-8-99-515-806-nb-classifier.qza':
@@ -929,7 +933,11 @@ MAP_2023 = {
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.12/tiny/released/qiime2-tiny-macos-latest-conda.yml',
     'distro/tiny/qiime2-tiny-2023.12-py38-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.12/tiny/released/qiime2-tiny-ubuntu-latest-conda.yml',
-
+    # FMT
+    'distro/fmt/qiime2-fmt-2023.12-py38-osx-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.12/fmt/released/qiime2-fmt-macos-latest-conda.yml',
+    'distro/fmt/qiime2-fmt-2023.12-py38-linux-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/distributions/dev/2023.12/fmt/released/qiime2-fmt-ubuntu-latest-conda.yml',
 
     # 2023.12
     '2023.12/common/gg-13-8-99-515-806-nb-classifier.qza':

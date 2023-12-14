@@ -17,6 +17,7 @@ from ._2020 import MAP_2020
 from ._2021 import MAP_2021
 from ._2022 import MAP_2022
 from ._2023 import MAP_2023
+from ._2024 import MAP_2024
 
 
 MAP = {
@@ -37,6 +38,8 @@ MAP = {
     **MAP_2022,
 
     **MAP_2023,
+
+    **MAP_2024,
 }
 
 

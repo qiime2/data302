@@ -269,6 +269,12 @@ MAP_2024 = {
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/fmt/released/qiime2-fmt-ubuntu-latest-conda.yml',
 
     # 2024.5
+    '2024.5/common/2022.10.backbone.full-length.nb.sklearn-1.4.2.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/2022.10.backbone.full-length.nb.sklearn-1.4.2.qza',
+    '2024.5/common/2022.10.backbone.v4.nb.sklearn-1.4.2.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/2022.10.backbone.v4.nb.sklearn-1.4.2.qza',
+    '2024.5/common/gtdb_classifier_r220.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/gtdb_classifier_r220.qza',
     '2024.5/common/gg-13-8-99-515-806-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/gg-13-8-99-515-806-nb-classifier.qza',
     '2024.5/common/gg-13-8-99-515-806-nb-weighted-classifier.qza':

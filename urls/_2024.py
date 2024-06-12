@@ -270,8 +270,8 @@ MAP_2024 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/2022.10.backbone.v4.nb.sklearn-1.4.2.qza',
     '2024.5/common/gtdb_classifier_r220.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/gtdb_classifier_r220.qza',
-    '2024.5/common/gtdb_weighted_classifier_r220.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/gtdb_weighted_classifier_r220.qza',
+    '2024.5/common/gtdb_human_stool_weighted_classifier_r220.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/gtdb_human_stool_weighted_classifier_r220.qza',
     '2024.5/common/gg-13-8-99-515-806-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/gg-13-8-99-515-806-nb-classifier.qza',
     '2024.5/common/sepp-refs-gg-13-8.qza':
@@ -280,8 +280,8 @@ MAP_2024 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/sepp-refs-silva-128.qza',
     '2024.5/common/silva-138-99-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/silva-138-99-nb-classifier.qza',
-    '2024.5/common/silva-138-99-nb-weighted-classifier.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/silva-138-99-nb-weighted-classifier.qza',
+    '2024.5/common/silva-138-99-nb-human-stool-weighted-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/silva-138-99-nb-human-stool-weighted-classifier.qza',
     '2024.5/common/silva-138-99-seqs-515-806.qza':
         'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-seqs-515-806.qza',
     '2024.5/common/silva-138-99-seqs.qza':
@@ -500,8 +500,8 @@ MAP_2024 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/2022.10.backbone.v4.nb.sklearn-1.4.2.qza',
     '2024.10/common/gtdb_classifier_r220.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/gtdb_classifier_r220.qza',
-    '2024.10/common/gtdb_weighted_classifier_r220.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/gtdb_weighted_classifier_r220.qza',
+    '2024.10/common/gtdb_human_stool_weighted_classifier_r220.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/gtdb_human_stool_weighted_classifier_r220.qza',
     '2024.10/common/gg-13-8-99-515-806-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/gg-13-8-99-515-806-nb-classifier.qza',
     '2024.10/common/sepp-refs-gg-13-8.qza':
@@ -510,8 +510,8 @@ MAP_2024 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/sepp-refs-silva-128.qza',
     '2024.10/common/silva-138-99-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/silva-138-99-nb-classifier.qza',
-    '2024.10/common/silva-138-99-nb-weighted-classifier.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/silva-138-99-nb-weighted-classifier.qza',
+    '2024.10/common/silva-138-99-nb-human-stool-weighted-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/silva-138-99-nb-human-stool-weighted-classifier.qza',
     '2024.10/common/silva-138-99-seqs-515-806.qza':
         'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.10/common/silva-138-99-seqs-515-806.qza',
     '2024.10/common/silva-138-99-seqs.qza':

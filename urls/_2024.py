@@ -248,19 +248,19 @@ MAP_2024 = {
 
     # 2024.5 DISTROS
     # Amplicon
-    'distro/amplicon/qiime2-amplicon-2024.5-py38-osx-conda.yml':
+    'distro/amplicon/qiime2-amplicon-2024.5-py39-osx-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/amplicon/released/qiime2-amplicon-macos-latest-conda.yml',
-    'distro/amplicon/qiime2-amplicon-2024.5-py38-linux-conda.yml':
+    'distro/amplicon/qiime2-amplicon-2024.5-py39-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/amplicon/released/qiime2-amplicon-ubuntu-latest-conda.yml',
     # Metagenome
-    'distro/metagenome/qiime2-metagenome-2024.5-py38-osx-conda.yml':
+    'distro/metagenome/qiime2-metagenome-2024.5-py39-osx-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/metagenome/released/qiime2-metagenome-macos-latest-conda.yml',
-    'distro/metagenome/qiime2-metagenome-2024.5-py38-linux-conda.yml':
+    'distro/metagenome/qiime2-metagenome-2024.5-py39-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/metagenome/released/qiime2-metagenome-ubuntu-latest-conda.yml',
     # Tiny
-    'distro/tiny/qiime2-tiny-2024.5-py38-osx-conda.yml':
+    'distro/tiny/qiime2-tiny-2024.5-py39-osx-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/tiny/released/qiime2-tiny-macos-latest-conda.yml',
-    'distro/tiny/qiime2-tiny-2024.5-py38-linux-conda.yml':
+    'distro/tiny/qiime2-tiny-2024.5-py39-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/tiny/released/qiime2-tiny-ubuntu-latest-conda.yml',
 
     # 2024.5
@@ -471,19 +471,19 @@ MAP_2024 = {
 
     # 2024.10 DISTROS
     # Amplicon
-    'distro/amplicon/qiime2-amplicon-2024.10-py38-osx-conda.yml':
+    'distro/amplicon/qiime2-amplicon-2024.10-py39-osx-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.10/amplicon/released/qiime2-amplicon-macos-latest-conda.yml',
-    'distro/amplicon/qiime2-amplicon-2024.10-py38-linux-conda.yml':
+    'distro/amplicon/qiime2-amplicon-2024.10-py39-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.10/amplicon/released/qiime2-amplicon-ubuntu-latest-conda.yml',
     # Metagenome
-    'distro/metagenome/qiime2-metagenome-2024.10-py38-osx-conda.yml':
+    'distro/metagenome/qiime2-metagenome-2024.10-py39-osx-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.10/metagenome/released/qiime2-metagenome-macos-latest-conda.yml',
-    'distro/metagenome/qiime2-metagenome-2024.10-py38-linux-conda.yml':
+    'distro/metagenome/qiime2-metagenome-2024.10-py39-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.10/metagenome/released/qiime2-metagenome-ubuntu-latest-conda.yml',
     # Tiny
-    'distro/tiny/qiime2-tiny-2024.10-py38-osx-conda.yml':
+    'distro/tiny/qiime2-tiny-2024.10-py39-osx-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.10/tiny/released/qiime2-tiny-macos-latest-conda.yml',
-    'distro/tiny/qiime2-tiny-2024.10-py38-linux-conda.yml':
+    'distro/tiny/qiime2-tiny-2024.10-py39-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.10/tiny/released/qiime2-tiny-ubuntu-latest-conda.yml',
 
     # 2024.10

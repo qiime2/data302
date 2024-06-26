@@ -286,14 +286,6 @@ MAP_2024 = {
     # these are only used in the deprecated resources page
     '2024.5/common/sepp-refs-silva-128.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/sepp-refs-silva-128.qza',
-    '2024.5/common/silva-138-99-seqs-515-806.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-seqs-515-806.qza',
-    '2024.5/common/silva-138-99-seqs.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-seqs.qza',
-    '2024.5/common/silva-138-99-tax-515-806.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-tax-515-806.qza',
-    '2024.5/common/silva-138-99-tax.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-tax.qza',
 
     # these are used in tutorials
     '2024.5/common/gg-13-8-99-515-806-nb-classifier.qza':
@@ -509,14 +501,6 @@ MAP_2024 = {
     # these are only used in the deprecated resources page
     '2024.10/common/sepp-refs-silva-128.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/sepp-refs-silva-128.qza',
-    '2024.10/common/silva-138-99-seqs-515-806.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.10/common/silva-138-99-seqs-515-806.qza',
-    '2024.10/common/silva-138-99-seqs.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.10/common/silva-138-99-seqs.qza',
-    '2024.10/common/silva-138-99-tax-515-806.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.10/common/silva-138-99-tax-515-806.qza',
-    '2024.10/common/silva-138-99-tax.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.10/common/silva-138-99-tax.qza',
 
     # these are used in tutorials
     '2024.10/common/gg-13-8-99-515-806-nb-classifier.qza':

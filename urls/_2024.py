@@ -283,6 +283,12 @@ MAP_2024 = {
 
     # 2024.5
 
+    # these are used in tutorials
+    '2024.5/common/gg-13-8-99-515-806-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/gg-13-8-99-515-806-nb-classifier.qza',
+    '2024.5/common/sepp-refs-gg-13-8.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/sepp-refs-gg-13-8.qza',
+
     '2024.5/tutorials/atacama-soils/10p/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/tutorials/atacama-soils/10p/barcodes.fastq.gz',
     '2024.5/tutorials/atacama-soils/10p/forward.fastq.gz':

@@ -9,6 +9,14 @@
 # flake8: noqa
 
 MAP_CLASSIFIERS = {
+    # sklearn 0.21.2
+
+    # SEPP reference databases
+    'classifiers/sklearn-0.21.2/sepp-ref-dbs/sepp-refs-gg-13-8.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sklearn-0.21.2/sepp-ref-dbs/sepp-refs-gg-13-8.qza',
+    'classifiers/sklearn-0.21.2/sepp-ref-dbs/sepp-refs-silva-128.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sklearn-0.21.2/sepp-ref-dbs/sepp-refs-silva-128.qza',
+
     # sklearn 0.24.1
 
     # Greengenes
@@ -24,6 +32,10 @@ MAP_CLASSIFIERS = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/greengenes/gg_2022_10_backbone.v4.nb.qza',
 
     # sklearn 1.4.2
+
+    # Greengenes
+    'classifiers/sklearn-1.4.2/greengenes/gg-13-8-99-515-806-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sklearn-1.4.2/greengenes/gg-13-8-99-515-806-nb-classifier.qza',
 
     # Greengenes 2
     'classifiers/sklearn-1.4.2/greengenes2/2022.10.backbone.full-length.nb.sklearn-1.4.2.qza':

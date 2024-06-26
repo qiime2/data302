@@ -283,18 +283,6 @@ MAP_2024 = {
 
     # 2024.5
 
-    # these are only used in the deprecated resources page
-    '2024.5/common/sepp-refs-silva-128.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/sepp-refs-silva-128.qza',
-    '2024.5/common/silva-138-99-seqs-515-806.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-seqs-515-806.qza',
-    '2024.5/common/silva-138-99-seqs.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-seqs.qza',
-    '2024.5/common/silva-138-99-tax-515-806.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-tax-515-806.qza',
-    '2024.5/common/silva-138-99-tax.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-tax.qza',
-
     # these are used in tutorials
     '2024.5/common/gg-13-8-99-515-806-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/gg-13-8-99-515-806-nb-classifier.qza',
@@ -505,24 +493,6 @@ MAP_2024 = {
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.10/tiny/released/qiime2-tiny-ubuntu-latest-conda.yml',
 
     # 2024.10
-
-    # these are only used in the deprecated resources page
-    '2024.10/common/sepp-refs-silva-128.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/sepp-refs-silva-128.qza',
-    '2024.10/common/silva-138-99-seqs-515-806.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.10/common/silva-138-99-seqs-515-806.qza',
-    '2024.10/common/silva-138-99-seqs.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.10/common/silva-138-99-seqs.qza',
-    '2024.10/common/silva-138-99-tax-515-806.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.10/common/silva-138-99-tax-515-806.qza',
-    '2024.10/common/silva-138-99-tax.qza':
-        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.10/common/silva-138-99-tax.qza',
-
-    # these are used in tutorials
-    '2024.10/common/gg-13-8-99-515-806-nb-classifier.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/gg-13-8-99-515-806-nb-classifier.qza',
-    '2024.10/common/sepp-refs-gg-13-8.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/common/sepp-refs-gg-13-8.qza',
 
     '2024.10/tutorials/atacama-soils/10p/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.10/tutorials/atacama-soils/10p/barcodes.fastq.gz',

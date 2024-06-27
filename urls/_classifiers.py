@@ -12,10 +12,10 @@ MAP_CLASSIFIERS = {
     # sklearn 0.21.2
 
     # SEPP reference databases
-    'classifiers/sklearn-0.21.2/sepp-ref-dbs/sepp-refs-gg-13-8.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sklearn-0.21.2/sepp-ref-dbs/sepp-refs-gg-13-8.qza',
-    'classifiers/sklearn-0.21.2/sepp-ref-dbs/sepp-refs-silva-128.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sklearn-0.21.2/sepp-ref-dbs/sepp-refs-silva-128.qza',
+    'classifiers/sepp-ref-dbs/sepp-refs-gg-13-8.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sepp-ref-dbs/sepp-refs-gg-13-8.qza',
+    'classifiers/sepp-ref-dbs/sepp-refs-silva-128.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sepp-ref-dbs/sepp-refs-silva-128.qza',
 
     # sklearn 0.24.1
 

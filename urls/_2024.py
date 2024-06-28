@@ -247,24 +247,7 @@ MAP_2024 = {
         'https://docs.google.com/spreadsheets/d/e/2PACX-1vTLGsocl7k9nU1M5mFlKMYtzG71KAbSrEJkizotWB3fMkla1jHmfxSwyxxlaChAqVRcO1Egr3OcJpIb/pub?gid=1509704122&single=true&output=tsv',
 
     # 2024.5 DISTROS
-    # OLD PYTHON - deleteme after docs are built
-    # Amplicon
-    'distro/amplicon/qiime2-amplicon-2024.5-py38-osx-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/amplicon/released/qiime2-amplicon-macos-latest-conda.yml',
-    'distro/amplicon/qiime2-amplicon-2024.5-py38-linux-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/amplicon/released/qiime2-amplicon-ubuntu-latest-conda.yml',
-    # Metagenome
-    'distro/metagenome/qiime2-metagenome-2024.5-py38-osx-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/metagenome/released/qiime2-metagenome-macos-latest-conda.yml',
-    'distro/metagenome/qiime2-metagenome-2024.5-py38-linux-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/metagenome/released/qiime2-metagenome-ubuntu-latest-conda.yml',
-    # Tiny
-    'distro/tiny/qiime2-tiny-2024.5-py38-osx-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/tiny/released/qiime2-tiny-macos-latest-conda.yml',
-    'distro/tiny/qiime2-tiny-2024.5-py38-linux-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/tiny/released/qiime2-tiny-ubuntu-latest-conda.yml',
 
-    # NEW PYTHON - keep
     # Amplicon
     'distro/amplicon/qiime2-amplicon-2024.5-py39-osx-conda.yml':
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/amplicon/released/qiime2-amplicon-macos-latest-conda.yml',
@@ -282,12 +265,6 @@ MAP_2024 = {
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/tiny/released/qiime2-tiny-ubuntu-latest-conda.yml',
 
     # 2024.5
-
-    # these are used in tutorials
-    '2024.5/common/gg-13-8-99-515-806-nb-classifier.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/gg-13-8-99-515-806-nb-classifier.qza',
-    '2024.5/common/sepp-refs-gg-13-8.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/sepp-refs-gg-13-8.qza',
 
     '2024.5/tutorials/atacama-soils/10p/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/tutorials/atacama-soils/10p/barcodes.fastq.gz',

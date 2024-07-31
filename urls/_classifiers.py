@@ -47,9 +47,13 @@ MAP_CLASSIFIERS = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sklearn-1.4.2/gtdb/gtdb_classifier_r220.qza',
     'classifiers/sklearn-1.4.2/gtdb/gtdb_human_stool_weighted_classifier_r220.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sklearn-1.4.2/gtdb/gtdb_human_stool_weighted_classifier_r220.qza',
+    'classifiers/sklearn-1.4.2/gtdb/gtdb_diverse_weighted_classifier_r220.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sklearn-1.4.2/gtdb/gtdb_diverse_weighted_classifier_r220.qza',
     # Silva
     'classifiers/sklearn-1.4.2/silva/silva-138-99-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sklearn-1.4.2/silva/silva-138-99-nb-classifier.qza',
     'classifiers/sklearn-1.4.2/silva/silva-138-99-nb-human-stool-weighted-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sklearn-1.4.2/silva/silva-138-99-nb-human-stool-weighted-classifier.qza',
+    'classifiers/sklearn-1.4.2/silva/silva-138-99-nb-diverse-weighted-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/classifiers/sklearn-1.4.2/silva/silva-138-99-nb-diverse-weighted-classifier.qza',
 }

@@ -265,6 +265,17 @@ MAP_2024 = {
         'https://raw.githubusercontent.com/qiime2/distributions/dev/2024.5/tiny/released/qiime2-tiny-ubuntu-latest-conda.yml',
 
     # 2024.5
+    
+    '2024.5/common/sepp-refs-silva-128.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/common/sepp-refs-silva-128.qza',
+    '2024.5/common/silva-138-99-seqs-515-806.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-seqs-515-806.qza',
+    '2024.5/common/silva-138-99-seqs.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-seqs.qza',
+    '2024.5/common/silva-138-99-tax-515-806.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-tax-515-806.qza',
+    '2024.5/common/silva-138-99-tax.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2024.5/common/silva-138-99-tax.qza',
 
     '2024.5/tutorials/atacama-soils/10p/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2024.5/tutorials/atacama-soils/10p/barcodes.fastq.gz',

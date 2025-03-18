@@ -38,7 +38,8 @@ jobs:
           fetch-depth: 0
 
       - name: deploy to dokku instance
-        uses: idoberko2/dokku-deploy-github-action@v1
+        # Replaces idoberko2/dokku-deploy-github-action@v1
+        uses: qiime2-cutlery/dokku-deploy-github-action@master
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
           dokku-host: 'data.qiime2.org'
